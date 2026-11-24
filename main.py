@@ -7,6 +7,8 @@ Mizzlewick to /output/entry.txt. Pure stdlib, no network.
 import os
 
 ENTRY = (
+    # 127 characters, inside the 1-140 gate; the smile lands on the
+    # last words, in the register of a real broadcast forecast.
     "Mizzlewick: light rain, heavy sighs, and the 7:52 to Nowhere "
     "Central delayed by leaves, as it has been every autumn since 1987."
 )
